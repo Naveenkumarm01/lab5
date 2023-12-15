@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         GIT_REPO_URL = 'https://github.com/Naveenkumarm01/lab5.git'
-        NGINX_PATH = 'D:\nginx-1.24.0\nginx-1.24.0\htmldocx'
+        NGINX_PATH = 'D:\\nginx-1.24.0\\nginx-1.24.0\\htmldocx\\'
     }
 
     stages {
